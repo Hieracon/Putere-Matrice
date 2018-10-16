@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1539701457 source:c:\users\florin\desktop\matrice\main.c
+	"putere_matrice.h"
+
+1539701457 c:\users\florin\desktop\matrice\putere_matrice.h
+	<stdio.h>
+	<stdlib.h>
+
+1539702841 source:c:\users\florin\desktop\matrice\putere_matrice.c
+	"putere_matrice.h"
+
